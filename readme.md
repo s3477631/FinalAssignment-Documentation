@@ -29,3 +29,6 @@ The app will solve the Business Challenge through the proposed process and featu
 - As Manager, I want to enable Floaters to be more effective, so I don't have to step in during the day
 - As Manager, I want to see how the floaters are performing, so I can roster extra support if necessary
 - As Manager, I want to see if employees are coming back from their breaks on time, so I can take disciplinary action if necessary
+
+# Dataflow diagram
+
