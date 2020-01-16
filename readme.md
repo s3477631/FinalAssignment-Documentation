@@ -32,7 +32,7 @@ The app will solve the Business Challenge through the proposed process and featu
 
 # Trello Board 
 
-
+![Trello Board](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/Trello.png)
 
 
 # Application Architecture Diagram
