@@ -32,3 +32,7 @@ The app will solve the Business Challenge through the proposed process and featu
 
 # Dataflow diagram
 
+![Application Architecture Diagram](https://github.com/s3477631/FinalAssignment-Documentation/tree/diagram/src/AAD.jpg "Application Architure Diagram")
+
+![Data Flow Diagram](https://github.com/s3477631/FinalAssignment-Documentation/tree/diagram/src/Breaks.jpg "Data Flow Diagram")
+
