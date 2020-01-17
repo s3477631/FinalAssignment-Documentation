@@ -30,11 +30,16 @@ The app will solve the Business Challenge through the proposed process and featu
 - As Manager, I want to see how the floaters are performing, so I can roster extra support if necessary
 - As Manager, I want to see if employees are coming back from their breaks on time, so I can take disciplinary action if necessary
 
+# Trello Board 
+
+![Trello Board](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/Trello.png)
+
+
 # Application Architecture Diagram
 
 ![Application Architecture Diagram](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/AAD.jpg)
 
 # Dataflow diagram
 
-![Data Flow Diagram](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/Breaks.png)
+![Data Flow Diagram](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/break-scheduler-dfd.png)
 
