@@ -4,7 +4,7 @@ The main target audience is IKEA Logan, Cashline Department. Additionally, the a
 # Business Challenge
 The Cashline Department is where people pay. It's where the cashiers and self-serve registers are. On any given day, there are a number of cashiers working, and each of them are entitled to a certain number of breaks based on the length of their shift. It is a business requirement that all of these breaks be fullfilled by a certain time, the Goal. 
 
-The issue is that there are occasions where the cashier in charge of breaks (the Floater) falls behind schedule, and either has to call a Manager for assistance with the breaks, or finishes past the Goal time. This is due to a lack of infrastructure surrounding how these breaks are planned, and also the unpredictability of queue times. 
+The issue is that there are occasions where the cashier in charge of breaks (the Floater) falls behind git@github.com:s3477631/FinalAssignment-Documentation.gitl time. This is due to a lack of infrastructure surrounding how these breaks are planned, and also the unpredictability of queue times. 
 
 # Purpose
 The purpose of this application is to solve or relieve the aforementioned painpoints: 
@@ -32,14 +32,14 @@ The app will solve the Business Challenge through the proposed process and featu
 
 # Trello Board 
 
-![Trello Board](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/Trello.png)
+![Trello Board](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/docs/Trello.png)
 
 
 # Application Architecture Diagram
 
-![Application Architecture Diagram](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/AAD.jpg)
+![Application Architecture Diagram](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/docs/AAD.jpg)
 
 # Dataflow diagram
 
-![Data Flow Diagram](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/src/break-scheduler-dfd.png)
+![Data Flow Diagram](https://github.com/s3477631/FinalAssignment-Documentation/blob/master/docs/break-scheduler-dfd.png)
 
