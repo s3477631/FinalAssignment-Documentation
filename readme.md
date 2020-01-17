@@ -1,5 +1,5 @@
 # Target Audience
-IKEA Logan, Cashline Department
+The main target audience is IKEA Logan, Cashline Department. Additionally, the application will work for any retail or food business involving shift work. 
 
 # Business Challenge
 The Cashline Department is where people pay. It's where the cashiers and self-serve registers are. On any given day, there are a number of cashiers working, and each of them are entitled to a certain number of breaks based on the length of their shift. It is a business requirement that all of these breaks be fullfilled by a certain time, the Goal. 
